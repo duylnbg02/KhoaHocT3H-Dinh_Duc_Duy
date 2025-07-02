@@ -1,0 +1,14 @@
+{
+  "orders": [
+    {
+      "id": "ORD001",
+      "date": "2024-01-15",
+      "status": "completed",
+      "customer_id": "CUST001",
+      "items": [
+        {"product_id": "PROD001", "name": "iPhone 15", "category": "Electronics", "price": 999.99, "quantity": 1},
+        {"product_id": "PROD002", "name": "AirPods", "category": "Electronics", "price": 199.99, "quantity": 2}
+      ]
+    }
+  ]
+}
